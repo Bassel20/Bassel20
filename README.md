@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bassel Sherif</h1>
-<h3 align="center">A passionate Computer Engineering student from Egypt</h3>
+<h3 align="center">Student at Nile Univerity, Egypt</h3>
 
 - 🔭 I’m currently working on **RTOS and Face mask detection using Keras**
 
