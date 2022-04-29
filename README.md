@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bassel Sherif</h1>
-<h3 align="center">A passionate Computer Engineering student from Egypt 🇪🇬</h3>
+<h3 align="center">A passionate Computer Engineering student from Egypt</h3>
 
 - 🔭 I’m currently working on **RTOS and Face mask detection using Keras**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **basselsherif55@gmail.com**
 
-- 📄 Take a look at my CV [https://drive.google.com/file/d/1NY0YWllRJYD6jHIjq9U6cmEfgUozcaL-/view?usp=sharing](https://drive.google.com/file/d/1NY0YWllRJYD6jHIjq9U6cmEfgUozcaL-/view?usp=sharing)
+- 📄 Take a look at my [Resume](https://drive.google.com/file/d/1NY0YWllRJYD6jHIjq9U6cmEfgUozcaL-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
