@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **`AUTOSAR` and `FWD Data analysis`**
 
-- 💬 Ask me about **Embedded systems**
+- 💬 Ask me about **`Embedded Systems`**
 
 - 📫 How to reach me **basselsherif55@gmail.com**
 
