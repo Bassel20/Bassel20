@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bassel Sherif</h1>
 <h3 align="center">Computer Engineering Student at Nile Univerity, Egypt</h3>
 
-- 🔭 I’m currently working on **`RTOS` and `Face mask detection using Keras`**
+- 🔭 I’m currently working on **`RTOS`
 
-- 🌱 I’m currently learning **`AUTOSAR` and `FWD Data analysis`**
+- 🌱 I’m currently learning **`AUTOSAR` and `Machine Learning`**
 
-- 💬 Ask me about **`Embedded Systems`**
+- 💬 Ask me about **`Embedded Systems`** & **`Data Analysis`**
 
 - 📫 How to reach me **basselsherif55@gmail.com**
 
