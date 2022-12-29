@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **`AUTOSAR` and `Machine Learning`**
 
-- 💬 Ask me about **`Embedded Systems`** & **`Data Analysis`**
+- 💬 Ask me about **`Embedded Systems`** & **`Data Science`**
 
 - 📫 How to reach me **basselsherif55@gmail.com**
 
