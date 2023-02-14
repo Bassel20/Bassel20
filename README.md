@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **`RTOS`**
 
-- 🌱 I’m currently learning **`AUTOSAR` and `Machine Learning`**
+- 🌱 I’m currently learning **`Machine Learning`**
 
 - 💬 Ask me about **`Embedded Systems`** & **`Data Science`**
 
