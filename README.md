@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bassel Sherif</h1>
 <h3 align="center">Computer Engineering Student at Nile Univerity, Egypt</h3>
 
-- 🔭 I’m currently working on **`RTOS`**
+- 🔭 I’m currently working on **`DS Portfolio`**
 
 - 🌱 I’m currently learning **`Machine Learning`**
 
-- 💬 Ask me about **`Embedded Systems`** & **`Data Science`**
+- 💬 Ask me about **`Embedded Systems`** & **`SW Engineering`**
 
 - 📫 How to reach me **basselsherif55@gmail.com**
 
