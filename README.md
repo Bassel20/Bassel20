@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bassel Sherif</h1>
 <h3 align="center">Computer Engineering Student at Nile Univerity, Egypt</h3>
 
-- 🔭 I’m currently working on **`DS Portfolio`**
+- 🔭 I’m currently working on **`Embedded C++ project with security and network features`**
 
-- 🌱 I’m currently learning **`Machine Learning`**
+- 🌱 I’m currently learning **`Machine Learning and Linux`**
 
 - 💬 Ask me about **`Embedded Systems`** & **`SW Engineering`**
 
