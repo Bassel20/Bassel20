@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bassel Sherif</h1>
-<h3 align="center">Software Engineer at Valeo</h3>
+<h3 align="center">Passionate Software Engineer from Egypt</h3>
 
 - 🔭 I’m currently working on **`My AI Skills`**
 
